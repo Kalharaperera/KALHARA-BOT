@@ -36,14 +36,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94781518744'] //ur owner number
+global.vcardowner = ['9475209471'] //ur owner number
 global.ownername = "MASTER KALHARA" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94781518744']
+global.owner = ['94752019471']
 global.ownertag = '94781518744' //ur tag number
 global.botnumber = '94781518744' //Add your Bot Number For Log
 global.botname = 'MASTER BOT' //ur bot name
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94781518744'] //ADD YOU NUMBER
+global.premium = ['94752019471'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
